@@ -1,0 +1,16 @@
+.dropdown-toggle {
+       display: inline-block;
+      // width: 20rem ;
+      // height: 2.5rem;
+       margin-right: .25rem;
+       margin-left: .25rem;
+       margin-top: 0.2rem;
+       margin-bottom: 0.2rem;
+       vertical-align: middle;
+       content: "";
+       background-color: floralwhite;
+       border-top: .1em  solid;
+       border-right: .1em  solid transparent;
+       border-left: .1em  solid transparent;
+
+}
